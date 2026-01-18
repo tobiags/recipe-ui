@@ -1,0 +1,5 @@
+{
+  "/api/download/[kind]/route": "app/api/download/[kind]/route.js",
+  "/api/generate/route": "app/api/generate/route.js",
+  "/page": "app/page.js"
+}
